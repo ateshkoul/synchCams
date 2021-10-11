@@ -1,0 +1,14 @@
+LICENSE.rst
+README.md
+setup.cfg
+setup.py
+synchCams/__init__.py
+synchCams/cam_threads.py
+synchCams/start_server.py
+synchCams/start_webcams_threads.py
+synchCams/synchCams.py
+synchCams.egg-info/PKG-INFO
+synchCams.egg-info/SOURCES.txt
+synchCams.egg-info/dependency_links.txt
+synchCams.egg-info/requires.txt
+synchCams.egg-info/top_level.txt
